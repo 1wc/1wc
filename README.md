@@ -10,5 +10,5 @@ Security Engineer of Alibaba Group.
 - [CVE-2019-5435](https://curl.se/docs/CVE-2019-5435.html) libcurl
 - [CVE-2019-9746](https://nvd.nist.gov/vuln/detail/CVE-2019-9746) libwebm
 - Several popular iOS App remote identity hijackings
-- Servral popular macOS App LPEs
+- Several popular macOS App LPEs
 ......
