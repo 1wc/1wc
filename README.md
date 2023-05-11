@@ -3,7 +3,7 @@
 Security Engineer of Alibaba Group.
 
 ### Credit
-
+- CVE-2023-32391 Apple
 - [CVE-2023-23522](https://support.apple.com/en-us/HT213633) Apple
 - [CVE-2023-27963](https://support.apple.com/en-us/HT213670) Apple
 - [CVE-2020-9789](https://support.apple.com/en-us/HT211168) Apple
