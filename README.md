@@ -10,6 +10,8 @@ Security Engineer of Alibaba Group.
 - [CVE-2020-9789](https://support.apple.com/en-us/HT211168) Apple
 - [CVE-2019-5435](https://curl.se/docs/CVE-2019-5435.html) libcurl
 - [CVE-2019-9746](https://nvd.nist.gov/vuln/detail/CVE-2019-9746) libwebm
+- [CVE-2020-18652](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-18652) [CVE-2020-18651](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-18651) exempi
+- [CVE-2019-20826](https://nvd.nist.gov/vuln/detail/CVE-2019-20826) Foxit
 - Several popular iOS/Android App issues
 - Several popular macOS App LPEs
 ......
