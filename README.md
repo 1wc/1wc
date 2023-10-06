@@ -3,7 +3,7 @@
 Security Engineer of Alibaba Group.
 
 ### Credit
-- CVE-2023-43665 Django
+- [CVE-2023-43665](https://www.djangoproject.com/weblog/2023/oct/04/security-releases/) Django
 - [CVE-2023-32429](https://support.apple.com/en-us/HT213843) Apple
 - [CVE-2023-32391](https://support.apple.com/en-us/HT213757) Apple
 - [CVE-2023-23522](https://support.apple.com/en-us/HT213633) Apple
