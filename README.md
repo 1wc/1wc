@@ -13,5 +13,6 @@ Security Engineer of Alibaba Group.
 - [CVE-2019-9746](https://nvd.nist.gov/vuln/detail/CVE-2019-9746) libwebm
 - [CVE-2019-20826](https://nvd.nist.gov/vuln/detail/CVE-2019-20826) Foxit
 - [CVE-2020-18652](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-18652) [CVE-2020-18651](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-18651) exempi
+- 2023 Huawei Bug Bounty Program Top Researcher
 - Several iOS/Android/macOS application layer issues
 ......
