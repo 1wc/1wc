@@ -1,9 +1,10 @@
 ### Hi there 👋
 
 Security Engineer of Alibaba Group.
+Focused on security research and vulnerability mining in HarmonyOS/iOS/Android.
 
 ### Credit
-- 2023 Huawei Bug Bounty Program Top Researcher
+- 2023 Huawei Bug Bounty Program Top Researcher(some exploitable vul-chains)
 - [CVE-2023-43665](https://www.djangoproject.com/weblog/2023/oct/04/security-releases/) Django
 - [CVE-2023-32429](https://support.apple.com/en-us/HT213843) Apple
 - [CVE-2023-32391](https://support.apple.com/en-us/HT213757) Apple
@@ -13,6 +14,6 @@ Security Engineer of Alibaba Group.
 - [CVE-2019-5435](https://curl.se/docs/CVE-2019-5435.html) libcurl
 - [CVE-2019-9746](https://nvd.nist.gov/vuln/detail/CVE-2019-9746) libwebm
 - [CVE-2019-20826](https://nvd.nist.gov/vuln/detail/CVE-2019-20826) Foxit
-- [CVE-2020-18652](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-18652) [CVE-2020-18651](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-18651) exempi
-- Several iOS/Android/macOS application layer issues
+- [CVE-2020-18652](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-18652) exempi
+- [CVE-2020-18651](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-18651) exempi
 ......
