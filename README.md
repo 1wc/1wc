@@ -5,7 +5,8 @@ Security Engineer of Alibaba Group.
 Focused on security research and vulnerability mining in HarmonyOS/iOS/Android.
 
 ### Credit
-- 2023 Huawei Bug Bounty Program Top Researcher(some exploitable vul-chains)
+- 2024 Huawei Bug Bounty Program Top Researcher
+- 2023 Huawei Bug Bounty Program Top Researcher
 - [CVE-2023-43665](https://www.djangoproject.com/weblog/2023/oct/04/security-releases/) Django
 - [CVE-2023-32429](https://support.apple.com/en-us/HT213843) Apple
 - [CVE-2023-32391](https://support.apple.com/en-us/HT213757) Apple
