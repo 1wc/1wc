@@ -2,7 +2,7 @@
 
 Security Engineer of Alibaba Group.
 
-Focused on security research and vulnerability mining in HarmonyOS/iOS/Android.
+Focused on mobile security and vulnerability research in HarmonyOS/iOS/Android.
 
 ### Credit
 - 2024 Huawei Bug Bounty Program Top Researcher
