@@ -7,7 +7,7 @@ Focused on mobile security and vulnerability research in HarmonyOS/iOS/Android.
 ### Credit
 - 2024 Huawei Bug Bounty Program Top Researcher
 - 2023 Huawei Bug Bounty Program Top Researcher
-- CVE-2024-51xxx Huawei
+- [CVE-2024-xxxxx](https://consumer.huawei.com/en/support/bulletin/2024/11/) Huawei
 - [CVE-2024-54538](https://support.apple.com/en-us/121564) Apple
 - [CVE-2023-43665](https://www.djangoproject.com/weblog/2023/oct/04/security-releases/) Django
 - [CVE-2023-32429](https://support.apple.com/en-us/HT213843) Apple
