@@ -10,7 +10,7 @@ Focused on mobile security and vulnerability research in HarmonyOS/iOS/Android.
 - [CVE-2025-30471](https://support.apple.com/en-us/122371) Apple
 - [CVE-2024-xxxxx](https://consumer.huawei.com/en/support/bulletin/2024/11/) Huawei
 - [CVE-2024-54538](https://support.apple.com/en-us/121564) Apple
-- [No CVE](https://support.apple.com/en-us/120950) Apple
+- [macOS Sandbox](https://support.apple.com/en-us/120950) Apple
 - [CVE-2023-43665](https://www.djangoproject.com/weblog/2023/oct/04/security-releases/) Django
 - [CVE-2023-32429](https://support.apple.com/en-us/HT213843) Apple
 - [CVE-2023-32391](https://support.apple.com/en-us/HT213757) Apple
